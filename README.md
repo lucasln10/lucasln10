@@ -36,4 +36,7 @@ Estou aberto a desafios que me permitam contribuir com soluções inovadoras e a
 
 
 
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucasln10&theme=tokyonight&hide_border=verdadeiro&border_radius=5&short_numbers=verdadeiro&card_width=600&card_height=300)](https://git.io/streak-stats)
