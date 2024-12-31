@@ -29,7 +29,7 @@ Estou aberto a desafios que me permitam contribuir com soluções inovadoras e a
 
 ## CONTATOS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-lucas-elf-aa7476297/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaspy10) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-lucas-elf-aa7476297/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaspy10)
 
 
 
@@ -39,4 +39,5 @@ Estou aberto a desafios que me permitam contribuir com soluções inovadoras e a
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucasln10&theme=tokyonight&hide_border=verdadeiro&border_radius=5&short_numbers=verdadeiro&card_width=600&card_height=300)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucasln10&theme=tokyonight&hide_border=verdadeiro&border_radius=5&short_numbers=verdadeiro&card_width=600&card_height=300)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
