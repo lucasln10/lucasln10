@@ -1,4 +1,4 @@
-## [Hershell Lucas] - Apaixonado por Tecnologia e Desenvolvimento de Sistemas  
+## H LUCAS - Apaixonado por Tecnologia e Desenvolvimento de Sistemas  
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de aprender mais no universo da programação.  
 
