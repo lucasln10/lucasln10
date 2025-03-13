@@ -1,6 +1,6 @@
 ## H LUCAS - Apaixonado por Tecnologia.  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de aprender mais no universo da programação e cibersegurança.  
+Curso **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre em busca de aprender mais no universo da programação e cibersegurança.  
 
 Minha jornada no desenvolvimento inclui conhecimento sólido em **C#**, **Python** e **C**, ferramentas que me permitem criar soluções práticas e inovadoras. Atualmente, estou ampliando minhas habilidades com o estudo de **Java**, mergulhando em conceitos avançados e explorando novos desafios.  
 
