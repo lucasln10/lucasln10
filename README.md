@@ -2,7 +2,7 @@
 
 Desenvolvedor backend com experiência profissional em sistemas produtivos, apaixonado por arquitetura de software, automação e soluções de baixa latência.
 
-Trabalho principalmente com **Java**, **TypeScript**, **PHP** e **Python**, construindo desde APIs REST até pipelines de comunicação em tempo real com WebSocket, RTP e WebRTC. Tenho vivência prática com modernização de sistemas legados, orquestração de microserviços com Docker e integração de IA em fluxos operacionais.
+Trabalho principalmente com **Java**, construindo desde APIs REST até pipelines de comunicação em tempo real com WebSocket, RTP e WebRTC. Tenho vivência prática com modernização de sistemas legados, orquestração de microserviços com Docker e integração de IA em fluxos operacionais.
 
 Atualmente cursando **Ciência da Computação** e sempre explorando novos desafios — seja em infraestrutura, protocolos de rede ou projetos open source.
 
